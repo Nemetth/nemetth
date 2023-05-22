@@ -1,5 +1,5 @@
 # 💫 About Me:
-Bienvenido a mi jardín de código!<br>Mi nombre es Tomás Cahue. <br>🔭 En este momento estoy buscandor trabajo como desarrollador Front-end.<br>🌱 Estoy creciendo mucho en este ámbito, complementando mis estudios formales en Web Developer con experiencias extra curriculares.<br>🖥️ Manejo con destreza HTML, CSS y Javascript. En estos momentos, estoy estudiando PHP, vue.js, React Native y Progresive Web Apps conectadas con APIs.<br>🐶 Colaboro en una fundación de rescate de perros y gatos desarrollando su sitio web.<br>🗣️ Sé hablar inglés, alemán y español<br><br>Estoy abierto a cualquier sugerencia, siempre buscando aprender algo nuevo!
+Bienvenido a mi jardín de código!<br>Mi nombre es Tomás Cahue. <br>🔭 En este momento estoy buscandor trabajo como desarrollador Web.<br>🌱 Estoy creciendo mucho en este ámbito, complementando mis estudios formales en Web Developer con experiencias extra curriculares.<br>🖥️ Manejo con destreza HTML, CSS y Javascript. En estos momentos, estoy estudiando PHP, vue.js, React Native y Progresive Web Apps conectadas con APIs.<br>🐶 Colaboro en una fundación de rescate de perros y gatos desarrollando su sitio web.<br>🗣️ Sé hablar inglés, alemán y español<br><br>Estoy abierto a cualquier sugerencia, siempre buscando aprender algo nuevo!
 
 
 ## 🌐 Socials:
